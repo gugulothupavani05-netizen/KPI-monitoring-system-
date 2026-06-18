@@ -1,0 +1,31 @@
+Order Date,Sales,Profit,Quantity,Category,Region,Customer Name
+2025-01-05,1200,240,5,Technology,North,Amit Sharma
+2025-01-08,850,170,3,Furniture,South,Priya Patel
+2025-01-12,450,90,2,Office Supplies,West,Rahul Verma
+2025-01-15,2200,550,8,Technology,East,Neha Singh
+2025-01-18,750,120,4,Furniture,North,Vikram Joshi
+2025-01-22,600,90,3,Office Supplies,South,Anjali Mehta
+2025-02-02,1800,360,6,Technology,West,Rohan Gupta
+2025-02-06,950,190,4,Furniture,East,Sneha Rao
+2025-02-10,520,78,2,Office Supplies,North,Karan Shah
+2025-02-14,2500,625,9,Technology,South,Meera Iyer
+2025-02-18,680,102,3,Furniture,West,Arjun Nair
+2025-02-25,430,65,2,Office Supplies,East,Pooja Desai
+2025-03-03,2100,525,7,Technology,North,Amit Sharma
+2025-03-07,890,178,4,Furniture,South,Priya Patel
+2025-03-11,490,74,2,Office Supplies,West,Rahul Verma
+2025-03-16,2700,675,10,Technology,East,Neha Singh
+2025-03-20,810,130,4,Furniture,North,Vikram Joshi
+2025-03-24,650,98,3,Office Supplies,South,Anjali Mehta
+2025-04-01,1950,390,6,Technology,West,Rohan Gupta
+2025-04-06,980,196,4,Furniture,East,Sneha Rao
+2025-04-10,550,83,2,Office Supplies,North,Karan Shah
+2025-04-14,2800,700,10,Technology,South,Meera Iyer
+2025-04-18,720,108,3,Furniture,West,Arjun Nair
+2025-04-25,470,70,2,Office Supplies,East,Pooja Desai
+2025-05-04,2300,575,8,Technology,North,Amit Sharma
+2025-05-08,920,184,4,Furniture,South,Priya Patel
+2025-05-12,510,76,2,Office Supplies,West,Rahul Verma
+2025-05-17,3000,750,11,Technology,East,Neha Singh
+2025-05-21,840,134,4,Furniture,North,Vikram Joshi
+2025-05-26,690,104,3,Office Supplies,South,Anjali Mehta
